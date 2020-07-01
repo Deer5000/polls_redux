@@ -1,7 +1,7 @@
 li a {
-    color: green;
+    color: orange;
 }
 
 body {
-    background: white url("images/background.gif.jpg") no-repeat;
+    background: blue url("#") no-repeat;
 }
